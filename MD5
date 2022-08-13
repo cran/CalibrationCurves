@@ -1,0 +1,15 @@
+944c8b4a5a8587bfd2c91e3b53b410e3 *DESCRIPTION
+57e0d5c43d6eb4998871d54fb95f7a80 *NAMESPACE
+3462c03535f9ac8c3fac3848536f2a21 *R/BT.samples.R
+f375135168d6835cc1871e10a6dce6c1 *R/auc.nonpara.mw.R
+b9c4429e1c3a6bd80b5d9334fa3ae369 *R/ci.auc.R
+9298630f16c36607a278b03d5e6e1758 *R/printFunction.R
+f54a76e2dfc974dcfb167a901b20c719 *R/rcspline.plot.noprint.R
+b02270bfe27919c43ad32371ddfcbcc5 *R/val.prob.ci.2.R
+510dd89202cf08845541ba399f804be6 *README.md
+527150fbaf09932a8bb6e3d5b168b7ba *inst/CITATION
+d62fb1d60ed7da0c61103ccfe417fc66 *man/CalibrationCurves.Rd
+6f9750630b1607e86fa36747a794095c *man/auc.nonpara.mw.Rd
+d4e7660627decec1b364435ee56a8543 *man/dot-rcspline.plot.Rd
+c8b265af6c6cf4f5d1b8f8751668539f *man/print.CalibrationCurve.Rd
+74667047d58a402328dab8c7eb63fbf8 *man/val.prob.ci.2.Rd
