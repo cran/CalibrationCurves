@@ -1,9 +1,9 @@
-00149b00081575be6af5113174b2ee10 *DESCRIPTION
+05844200030d71b1f7d1a78334c7cf5b *DESCRIPTION
 855e1ab8b332dbfd815e6e8acd9f1cea *NAMESPACE
 3462c03535f9ac8c3fac3848536f2a21 *R/BT.samples.R
 50e4b5ff00102602dc9437fb7ad2510f *R/auc.nonpara.mw.R
 b9c4429e1c3a6bd80b5d9334fa3ae369 *R/ci.auc.R
-eaeea205f93046f344e21764fad7eb34 *R/genCalCurve.R
+85efbb608402b4508ba9c45fc03e0ae5 *R/genCalCurve.R
 029f1a529dd78d1cfeb9a9b768cf4e9d *R/helperFunctions.R
 e7b0bb3a0900d6874e5512ad25f526ca *R/printFunction.R
 03f8f3a1e045c586cad7bdaf93864472 *R/rcspline.plot.noprint.R
@@ -16,9 +16,9 @@ c8b8f6a2eab24385ccc4a5b56f5afa75 *data/poissontraindata.rda
 112eea48839848514d643a6885ca8ed4 *data/testdata.rda
 2bbaa4da68931d334c499e30e4e77f2c *data/traindata.rda
 b500fd5ccfe98d41fbc74f1eb981da18 *inst/CITATION
-4d8edb817a8c2fa0698226078f5df587 *inst/doc/CalibrationCurves.R
-236331bff1a52da890fd4d3adea18ac8 *inst/doc/CalibrationCurves.Rmd
-ec71051c61f3c6f03d69068e5836359a *inst/doc/CalibrationCurves.html
+b3620f4c5b54aba121b6afaa220c8a6e *inst/doc/CalibrationCurves.R
+b2d315c620981058bce8634737daabe7 *inst/doc/CalibrationCurves.Rmd
+9aeeaa20ea20c21c11b454abf44fc1c8 *inst/doc/CalibrationCurves.html
 8dc96f669eaa4111eb5dffc32d8b1c90 *inst/figures/CalibrationCurves.png
 c9164e36967479fc83883cb01ecf1701 *man/CalibrationCurves.Rd
 79bec39f45cdff4fa183a6458c2f02af *man/LibraryM.Rd
@@ -34,7 +34,7 @@ c8b265af6c6cf4f5d1b8f8751668539f *man/print.CalibrationCurve.Rd
 25e667bbf2ae3ef1f7c5dd42f9cc5860 *man/traindata.Rd
 da83ed126800984294b0e482b41d740f *man/val.prob.ci.2.Rd
 d14e1a43c0b86a927a6eef8fb538d768 *man/valProbggplot.Rd
-236331bff1a52da890fd4d3adea18ac8 *vignettes/CalibrationCurves.Rmd
+b2d315c620981058bce8634737daabe7 *vignettes/CalibrationCurves.Rmd
 8dc96f669eaa4111eb5dffc32d8b1c90 *vignettes/CalibrationCurves.png
 0f86f116ef66ec0c6efda82e4094616c *vignettes/Overfitted.png
 0843bccca9077932a55b9375fa113b6b *vignettes/OverfittedABC.png

@@ -57,8 +57,16 @@ polygon(
   border = NA
 )
 
-## ----out.width="100%"---------------------------------------------------------
-invisible(val.prob.ci.2(pHat, yTest, smooth = "rcs"))
+## ----rcsFit,  out.width="100%"------------------------------------------------
+rcsFit = tryCatch(val.prob.ci.2(pHat, yTest, smooth = "rcs"),
+                  error = function(e) TRUE)
+if(is.logical(rcsFit)) {
+  plot(1, type = "n", xlab = "", ylab = "", xlim = c(0, 10), ylim = c(0, 10))
+  text(x = 5, y = 5, labels = paste0("There was a problem estimating\n",
+                                     "the calibration curve using rcs"), cex = 2)
+} else {
+  rcsFit
+}
 
 ## ----out.width="100%"---------------------------------------------------------
 invisible(val.prob.ci.2(pHat, yTest, logistic.cal = TRUE, smooth = "none"))
