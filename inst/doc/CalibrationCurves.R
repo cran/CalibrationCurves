@@ -85,6 +85,17 @@ invisible(val.prob.ci.2(pHat, yTest, dostats = c("C (ROC)", "Intercept", "Slope"
 valProbggplot(pHat, yTest)
 
 ## -----------------------------------------------------------------------------
+library(survival)
+data(trainDataSurvival)
+data(testDataSurvival)
+sFit = coxph(Surv(ryear, rfs) ~ csize + cnode + grade3, data = trainDataSurvival,
+             x = TRUE, y = TRUE)
+calPerf = valProbSurvival(sFit, testDataSurvival, plotCal = "ggplot", nk = 5)
+
+## -----------------------------------------------------------------------------
+calPerf
+
+## -----------------------------------------------------------------------------
 data("poissontraindata")
 
 ## -----------------------------------------------------------------------------
