@@ -1,4 +1,4 @@
-94f5690aaabcb99b46fe578cbd687c09 *DESCRIPTION
+f1a9b86e7e570697fe37ee42862bb08b *DESCRIPTION
 ca42290784b58385637020b795355fae *NAMESPACE
 3462c03535f9ac8c3fac3848536f2a21 *R/BT.samples.R
 50e4b5ff00102602dc9437fb7ad2510f *R/auc.nonpara.mw.R
@@ -20,8 +20,8 @@ d53474a82da436a7660485892d88c929 *data/trainDataSurvival.rda
 2bbaa4da68931d334c499e30e4e77f2c *data/traindata.rda
 b500fd5ccfe98d41fbc74f1eb981da18 *inst/CITATION
 c71eef5f8aaf80255291fd1403495af1 *inst/doc/CalibrationCurves.R
-6862e35fb606a6e52412d76ef7dde64f *inst/doc/CalibrationCurves.Rmd
-53ee303ac3ddc49181c7c6210a897c44 *inst/doc/CalibrationCurves.html
+9eb2f1e6c3b9c068ef5f3e4e771f4f82 *inst/doc/CalibrationCurves.Rmd
+eb5ec652d07eab76ca96db15a96ec098 *inst/doc/CalibrationCurves.html
 8dc96f669eaa4111eb5dffc32d8b1c90 *inst/figures/CalibrationCurves.png
 c9164e36967479fc83883cb01ecf1701 *man/CalibrationCurves.Rd
 79bec39f45cdff4fa183a6458c2f02af *man/LibraryM.Rd
@@ -40,7 +40,7 @@ d3781e0f1079c85c82da833d5191e4b6 *man/print.SurvivalCalibrationCurve.Rd
 fffc21d7481a2a7247033f70f7e933d0 *man/val.prob.ci.2.Rd
 b356732cc14430f0cfc0e63ccf385867 *man/valProbSurvival.Rd
 59e53765c2eb0ea6fdd4fa0896c6382c *man/valProbggplot.Rd
-6862e35fb606a6e52412d76ef7dde64f *vignettes/CalibrationCurves.Rmd
+9eb2f1e6c3b9c068ef5f3e4e771f4f82 *vignettes/CalibrationCurves.Rmd
 8dc96f669eaa4111eb5dffc32d8b1c90 *vignettes/CalibrationCurves.png
 0f86f116ef66ec0c6efda82e4094616c *vignettes/Overfitted.png
 0843bccca9077932a55b9375fa113b6b *vignettes/OverfittedABC.png
